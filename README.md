@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **Html and css**
 
-- 💬 Ask me about **c , c++ , .Net**
+- 💬 Ask me about Java.
 
 - 📫 How to reach me **sachinkumarray4283@gmail.com**
 
