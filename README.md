@@ -2,11 +2,9 @@
 <h1 align="center">Hi 👋, I'm Sachin Kumar Ray</h1>
 <h3 align="center">An Indian pursuing Computer science</h3>
 
-- 🔭 I’m currently working on **connect_four game**
+- 🔭 I’m currently working on **Interactive Chatbot**
 
-- 🌱 I’m currently learning **Java and Python**
-
-- 👯 I’m looking to collaborate on **Games**
+- 🌱 I’m currently learning **Java and MERN**
 
 - 🤝 I’m looking for help with **Html and css**
 
